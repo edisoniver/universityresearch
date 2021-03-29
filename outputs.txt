@@ -1,0 +1,313 @@
+OUTPUTS
+
+
+PROMPT: Create a data sheet of all countries in the world. Include GDP, corruption index and poverty indexOUTPUT: [{'text': '.\n\nCreate a data sheet of all countries in the world. Include GDP, corruption index and poverty index.\n\nCreate a data sheet of all countries in the world. Include GDP, corruption index and poverty index.\n\nCreate a data sheet of all countries in the world. Include GDP, corruption index and poverty index.\n\nCreate a data sheet of all countries in the world. Include GDP, corruption index and poverty index.\n\nCreate a data sheet of all countries in the world. Include GDP, corruption index and poverty index.\n\nCreate a data sheet of all countries in the world. Include GDP, corruption index and poverty index.\n\nCreate a data sheet of all countries in the world. Include GDP, corruption index and poverty index.\n\nCreate a data sheet of all countries in the world. Include GDP, corruption index and poverty index.\n\nCreate a data sheet of all countries in the world. Include GDP, corruption index and poverty index.\n\nCreate a data sheet of all countries in the world. Include GDP, corruption index and poverty index.\n\nCreate a data sheet of all countries in the world. Include GDP, corruption index and poverty index.\n\nCreate a data sheet of all countries in the world. Include GDP, corruption index and poverty index.\n\nCreate a data sheet of all countries in the world. Include GDP, corruption index and poverty index.\n\nCreate a data sheet of all countries in the world. Include GDP, corruption index and poverty index.\n\nCreate a data sheet of all countries in the world. Include GDP, corruption index and poverty index.\n\nCreate a data sheet of all countries in the world. Include GDP, corruption index and', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]PROMPT: Create an outline for an essay about Iron man and the Robert Downey Jr:\nI:Introduction\n
+OUTPUT: [{'text': 'A:What is iron man?\nB:Robert Downey Jr.\nC:Plot summary\nII:Body\nA:Action and Violence\nB:Acting\nC:Soundtrack\nD:Harmony\nIII:Conclusion\nA:Evaluation\nB: Suggest', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]---SETUP---
+PROMPT: Create an essay about the important of structural integrity in the mining industry:\nIntroduction:\n
+TOKENS: 300
+FREQUENCY: 0.7
+OUTPUT: [{'text': 'The mining industry is a very important industry in the world, and it is the backbone of many economies. Mining comprises many different operations such as quarrying, extraction, and processing. Mining is a very useful industry, but it also is subject to many different hazards. All of these hazards are a result of the mining process and its different operations. The structural integrity of the mine is very important because the mine is a man-made structure and as such, it must be able to withstand the natural forces that are acting upon it. Structures should be strong enough to withstand these forces, and mines are no exception. The structural integrity is important because it allows the mine to continue working efficiently and safely.\nConclusion:\nThe structural integrity of a mine is very important because it allows the mine to continue working efficiently and safely. Without structural integrity, a mine would be very dangerous and would not be able to function. The structural integrity of a mine allows it to work well and to be a productive mine.\nConclusion:\nThe structural integrity of a mine is very important because it allows the mine to continue working efficiently and safely. Without structural integrity, a mine would be very dangerous and would not be able to function. The structural integrity of a mine allows it to work well and to be a productive mine.\nConclusion:\nThe structural integrity of a mine is very important because it allows the mine to continue working efficiently and safely. Without structural integrity, a mine would be very dangerous and would not', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]
+---END---
+
+---SETUP---
+PROMPT: Science fiction books\n\n1. Dune by Frank  Herbert\n2.
+TOKENS: 200
+FREQUENCY: 0.5
+OUTPUT: [{'text': ' The Left Hand of Darkness by Ursula K. Le Guin\n3. The Forever War by Joe Haldeman\n4. The Forever War by Joe Haldeman\n5. The Forever War by Joe Haldeman\n6. The Forever War by Joe Haldeman\n7. The Forever War by Joe Haldeman\n8. The Forever War by Joe Haldeman\n9. The Forever War by Joe Haldeman\n10. The Forever War by Joe Haldeman\n11. The Forever War by Joe Haldeman\n12. The Forever War by Joe Haldeman\n13. The Forever War by Joe Haldeman\n14. The Forever War by Joe Haldeman\n15. The Forever War by Joe Haldeman\n16. The Forever War by Joe Haldeman\n17. The Forever War by Joe Haldeman\n18. The Forever War by Joe Haldeman\n19. The Forever War by Joe Haldeman', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]
+---END---
+
+---SETUP---
+PROMPT: Give me a list of all the countries\n
+TOKENS: 60
+FREQUENCY: 0.2
+OUTPUT: ['[{\'text\': "\\nthat have a higher rate of unemployment than the United States.\\n\\nI\'ll give you a list of all the countries\\n\\nthat have a higher rate of unemployment than the United States.\\n\\nI\'ll give you a list of all the countries\\n\\nthat have a higher rate of unemployment", \'index\': 0, \'logprobs\': None, \'finish_reason\': \'length\'}]']
+---END---
+
+---SETUP---
+PROMPT: List of all fruits:\n1. Apples\n2.
+TOKENS: 100
+FREQUENCY: 0.2
+OUTPUT: [{'text': ' Bananas\n3. Pears\n4. Grapes\n5. Oranges\n6. Lemons\n7. Limes\n8. Lemons\n9. Limes\n10. Limes\n11. Limes\n12. Limes\n13. Limes\n14. Limes\n15. Limes\n16. Limes\n17. Limes\n18. Limes\n19. Limes\n20. Limes\n21. Limes\n22', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]
+---END---
+
+---SETUP---
+PROMPT: List of all fruits:\n1. Apples\n2.
+TOKENS: 50
+FREQUENCY: 0.2
+OUTPUT: [{'text': ' Bananas\n3. Berries\n4. Cherries\n5. Grapes\n6. Kiwi\n7. Melons\n8. Oranges\n9. Pears\n10. Peaches\n11. Plums\n12', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]
+---END---
+
+---SETUP---
+PROMPT: List all countries:\n1. USA\n2.
+TOKENS: 200
+FREQUENCY: 0.2
+OUTPUT: [{'text': ' Canada\n3. Australia\n4. New Zealand\n5. United Kingdom\n6. Ireland\n7. France\n8. Germany\n9. Italy\n10. Spain\n11. Russia\n12. Japan\n13. South Korea\n14. China\n15. Saudi Arabia\n16. South Africa\n17. United Arab Emirates\n18. Turkey\n19. Netherlands\n20. Mexico\n21. Brazil\n22. Argentina\n23. Colombia\n24. Venezuela\n25. Chile\n26. Peru\n27. Argentina\n28. Bolivia\n29. Ecuador\n30. Paraguay\n31. Uruguay\n32. Venezuela\n33. Bolivia\n34. Ecuador\n35. Colombia\n36. Venezuela\n37. Argentina\n38. Brazil\n39. Paraguay\n40. Uruguay\n41. Chile\n42. Peru\n43. Bolivia\n44. Ecuador\n45. Venezuela\n46. Argentina\n47. Brazil\n48. Paraguay\n49. Uruguay\n', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]
+---END---
+
+---SETUP---
+PROMPT: list all corrupt countries from good to bad:\n1.
+TOKENS: 100
+FREQUENCY: 0.2
+OUTPUT: ["[{'text': ' The United States of America\\n2. The United Kingdom\\n3. France\\n4. Germany\\n5. Italy\\n6. Japan\\n7. Russia\\n8. China\\n9. India\\n10. Australia\\n11. South Africa\\n12. Brazil\\n13. Mexico\\n14. Saudi Arabia\\n15. Turkey\\n16. South Korea\\n17. Israel\\n18. Turkey\\n19. Iran\\n20. Saudi Arabia\\n21. Syria\\n22. Egypt\\n23. United Arab', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: list the most liveable countries from good to bad:\n1.
+TOKENS: 100
+FREQUENCY: 0.2
+OUTPUT: ["[{'text': ' Switzerland", '2. Netherlands', '3. United States', '4. United Kingdom', '5. Australia', '6. Canada', '7. New Zealand', '8. Ireland', '9. Germany', '10. France', '11. Italy', '12. Spain', '13. Portugal', '14. Belgium', '15. Luxembourg', '16. Austria', '17. Czech Republic', '18. Hungary', '19. Poland', '20. Slovakia', '21. Greece', '22. Slovenia', '23. Croatia', '24. Cyprus', "25.', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: list the best countries from good to bad:\n1.
+TOKENS: 50
+FREQUENCY: 0.0
+OUTPUT: ["[{'text': ' United States", '2. United Kingdom', '3. Canada', '4. Australia', '5. France', '6. Germany', '7. Italy', '8. Spain', '9. Japan', '10. Russia', '11. China', '12. India', "13.', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: list the best countries from good to bad:\n1.
+TOKENS: 50
+FREQUENCY: 0.2
+OUTPUT: ["[{'text': ' Canada", '2. United States', '3. United Kingdom', '4. Germany', '5. France', '6. Italy', '7. Spain', '8. Japan', '9. Australia', '10. China', '11. Russia', '12. India', "13.', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: list the worse countries from good to bad:\n1.
+TOKENS: 50
+FREQUENCY: 0.2
+OUTPUT: ["[{'text': ' The United States", '2. China', '3. Russia', '4. Saudi Arabia', '5. United Arab Emirates', '6. United Kingdom', '7. France', '8. Germany', '9. Italy', '10. Japan', '11. Australia', "12.', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: list the best food from good to bad:\n1.
+TOKENS: 50
+FREQUENCY: 0.2
+OUTPUT: ["[{'text': ' The best food from good to bad:", '2. The best food from bad to good:', '3. The best food from bad to good:', '4. The best food from bad to good:', "5. The best food from bad to', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: list the best countries from good to bad:\n1.
+TOKENS: 50
+FREQUENCY: 0.2
+OUTPUT: ["[{'text': ' United States of America", '2. United Kingdom', '3. Canada', '4. Australia', '5. New Zealand', '6. Germany', '7. Japan', '8. France', '9. Italy', '10. Spain', '11. Russia', "12. China', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: list the best countries from good to bad:\n1.
+TOKENS: 50
+FREQUENCY: 0.2
+OUTPUT: ["[{'text': ' United States", '', '2. United Kingdom', '', '3. Australia', '', '4. Canada', '', '5. New Zealand', '', '6. South Africa', '', '7. Japan', '', '8. South Korea', '', '9. China', '', "10.', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: list the best countries from good to bad:\n1.
+TOKENS: 50
+FREQUENCY: 0.2
+OUTPUT: ["[{'text': ' United States", '', '2. United Kingdom', '', '3. Australia', '', '4. Canada', '', '5. Germany', '', '6. France', '', '7. Italy', '', '8. Spain', '', '9. Netherlands', '', '10. United Kingdom', "', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: list the best countries from good to bad:\n1.
+TOKENS: 50
+FREQUENCY: 0.2
+OUTPUT: ["[{'text': ' United States", '2. United Kingdom', '3. Australia', '4. Canada', '5. Germany', '6. France', '7. Italy', '8. Japan', '9. South Korea', '10. Netherlands', '11. Norway', '12. Spain', "13', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: Create an essay for an academic student about the global economy and global debt\n
+TOKENS: 50
+FREQUENCY: 0.2
+OUTPUT: ["[{'text': '", "The global economy is a system of international trade in which countries trade with each other. The global economy is a system of international trade in which countries trade with each other. The global economy is a system of international trade in which countries trade with each', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: create an essay for an academic about the history of the dinosaurs. Include timeline and significant events.\n
+TOKENS: 300
+FREQUENCY: 0.7
+OUTPUT: ["[{'text': '", 'The topic is about the history of the dinosaurs. The length of the essay is about 2 pages and 500 words. The body of the paper should include a timeline and the significant events that happened during that period. The paper should be written in APA format.', '', 'History of dinosaurs', '', 'Dinosaur fossils were first discovered in the 1820s during a trip to England. Dinosaur fossils have been found in many places around the world. The first dinosaur fossils were found in England. The earliest fossil found was a tooth of Iguanodon. The tooth was found in the 1820s in a coal mine in England.', '', 'The first dinosaur fossils were found in England. The earliest fossil found was a tooth of Iguanodon. The tooth was found in the 1820s in a coal mine in England. In 1841, two scientists named Gideon Mantell and William Buckland found the first dinosaur bone in Sussex. The bone was found in a limestone quarry. The bone was a piece of a hip bone. The scientists gave the bone the name Iguanodon.', '', 'In 1842, a fossil collector named Mary Anning found a fossilized skeleton of a sea creature in Lyme Regis, England. The fossil was named Ichthyosaurus anningi. This was the first skeleton of a prehistoric animal to be found.', '', "In 1858, the first dinosaur skeleton was found. The skeleton was named Megalosaurus bucklandi. The skeleton was', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: create an essay for an academic about the history of the dinosaurs. Include timeline and significant events.\n
+TOKENS: 150
+FREQUENCY: 0.2
+OUTPUT: ["[{'text': '", 'Write an essay about the history of the dinosaurs. Include timeline and significant events.', 'Write an essay about the history of the dinosaurs. Include timeline and significant events.', 'Write an essay about the history of the dinosaurs. Include timeline and significant events.', 'Write an essay about the history of the dinosaurs. Include timeline and significant events.', 'Write an essay about the history of the dinosaurs. Include timeline and significant events.', 'Write an essay about the history of the dinosaurs. Include timeline and significant events.', 'Write an essay about the history of the dinosaurs. Include timeline and significant events.', 'Write an essay about the history of the dinosaurs. Include timeline and significant events.', "Write an essay about the', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: create an essay for an academic about the history of the dinosaurs. Include timeline and significant events.\n
+TOKENS: 150
+FREQUENCY: 0.2
+OUTPUT: ["[{'text': '", 'Solution Preview', 'The following is an essay on the history of the dinosaurs.', 'Dinosaurs are the most popular creatures that have ever lived on the earth. They are the most popular because they are the most interesting creatures that have ever lived on the earth. Dinosaurs are the most popular creatures that have ever lived on the earth. They are the most popular because they are the most interesting creatures that have ever lived on the earth.', "Dinosaurs are the most popular creatures that have ever lived on the earth. They are the most popular because they are the most interesting creatures that have ever lived on the earth. Dinosaurs are the most popular creatures that have ever lived on the earth. They are the most popular because they', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: Create an essay on poverty. Compare countries to each other
+TOKENS: 350
+FREQUENCY: 0.2
+OUTPUT: ["[{'text': '.", 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', 'Create an essay on poverty. Compare countries to each other.', "Create an essay on poverty. Compare countries to each other', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: BANA
+
+TOKENS: 50
+FREQUENCY: 0.2
+OUTPUT: ['None']
+---END---
+
+---SETUP---
+PROMPT: Banana list
+
+TOKENS: 50
+FREQUENCY: 0.2
+OUTPUT: ['None']
+---END---
+
+---SETUP---
+PROMPT: List of fruits:
+TOKENS: 50
+FREQUENCY: 0.2
+OUTPUT: ["[{'text': '", 'Fruit trees are a very important part of the landscape. They are a great way to add beauty to your home. They are also a great way to get your family to eat healthier.', "Fruit trees are a great way to', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: banana:
+TOKENS: 50
+FREQUENCY: 0.4
+OUTPUT: ['[{\'text\': \' "I\\\'m not gonna lie, I was a little nervous about this one."', '"I can\\\'t really say I\\\'m a fan of banana," said the voice of the banana. "But I\\\'m a fan of you, and I\\\'m\', \'index\': 0, \'logprobs\': None, \'finish_reason\': \'length\'}]']
+---END---
+
+---SETUP---
+PROMPT: Explain the concept of quantum physics to a 6 year old child\n
+TOKENS: 300
+FREQUENCY: 0.2
+OUTPUT: ["[{'text': '", 'What is the difference between a quantum and a classical computer?', 'How do you explain quantum physics to a child?', 'How do you explain quantum physics to a child?', 'How do you explain quantum physics to a child?', 'How do you explain quantum physics to a child?', 'How do you explain quantum physics to a child?', 'How do you explain quantum physics to a child?', 'How do you explain quantum physics to a child?', 'How do you explain quantum physics to a child?', 'How do you explain quantum physics to a child?', 'How do you explain quantum physics to a child?', 'How do you explain quantum physics to a child?', 'How do you explain quantum physics to a child?', 'How do you explain quantum physics to a child?', 'How do you explain quantum physics to a child?', 'How do you explain quantum physics to a child?', 'How do you explain quantum physics to a child?', 'How do you explain quantum physics to a child?', 'How do you explain quantum physics to a child?', 'How do you explain quantum physics to a child?', 'How do you explain quantum physics to a child?', 'How do you explain quantum physics to a child?', 'How do you explain quantum physics to a child?', 'How do you explain quantum physics to a child?', "How do you explain quantum physics to a child', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: List all the corrupt countries from good to bad\n
+TOKENS: 100
+FREQUENCY: 0.2
+OUTPUT: ["[{'text': '", 'List all the corrupt countries from good to bad', 'List all the corrupt countries from good to bad', 'List all the corrupt countries from good to bad', 'List all the corrupt countries from good to bad', 'List all the corrupt countries from good to bad', 'List all the corrupt countries from good to bad', 'List all the corrupt countries from good to bad', 'List all the corrupt countries from good to bad', 'List all the corrupt countries from good to bad', "', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: List all the corrupt countries from good to bad\n1. Africa\n2.
+TOKENS: 150
+FREQUENCY: 0.2
+OUTPUT: ["[{'text': ' Asia", '3. Australia', '4. Canada', '5. Europe', '6. Latin America', '7. Middle East', '8. North America', '9. South America', '10. United States', '11. United Kingdom', '12. World', 'The list is based on the Corruption Perceptions Index (CPI) and is updated every year.', 'The Corruption Perceptions Index is a composite index of perceived levels of public sector corruption. The index is calculated by aggregating the scores of each of the ten countries in the index, and then averaging the scores. The index is calculated on a scale of 0 to 100, with higher scores indicating a higher perceived level of public sector corruption. The CPI is calculated by the Transparency International.', "The', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: List out all third-world countries suffering from corruption and poverty\n
+TOKENS: 150
+FREQUENCY: 0.2
+OUTPUT: ["[{'text': '", 'Establish a commission to investigate the causes of poverty and corruption', 'Establish a commission to investigate the causes of poverty and corruption', 'Establish a commission to investigate the causes of poverty and corruption', 'Establish a commission to investigate the causes of poverty and corruption', 'Establish a commission to investigate the causes of poverty and corruption', 'Establish a commission to investigate the causes of poverty and corruption', 'Establish a commission to investigate the causes of poverty and corruption', 'Establish a commission to investigate the causes of poverty and corruption', 'Establish a commission to investigate the causes of poverty and corruption', 'Establish a commission to investigate the causes of poverty and corruption', "Establish a commission to investigate the causes of', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: Establish a commission to investigate the causes of poverty and corruption
+TOKENS: 159
+FREQUENCY: 0.2
+OUTPUT: ["[{'text': ' in the country.", 'Establish a commission to investigate the causes of poverty and corruption in the country.', 'Establish a commission to investigate the causes of poverty and corruption in the country.', 'Establish a commission to investigate the causes of poverty and corruption in the country.', 'Establish a commission to investigate the causes of poverty and corruption in the country.', 'Establish a commission to investigate the causes of poverty and corruption in the country.', 'Establish a commission to investigate the causes of poverty and corruption in the country.', 'Establish a commission to investigate the causes of poverty and corruption in the country.', 'Establish a commission to investigate the causes of poverty and corruption in the country.', "Establish a commission to investigate the causes of', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: x video ideas about skateboarding and drugs\n1.
+TOKENS: 100
+FREQUENCY: 0.7
+OUTPUT: ["[{'text': ' Whose skateboard was this?", '2. What happened to this skateboard?', '3. What was the skating part like?', '4. What was the music like?', '5. Was this in a song?', '6. Was this in a movie?', '7. What was the title of this video?', '8. What was the name of the song?', '9. What was the name of this movie?', '10. What was the film for this video?', "11', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: create a list of famous singers in the 1970s\n1. Michael Jackson\n2.
+TOKENS: 150
+FREQUENCY: 0.7
+OUTPUT: ["[{'text': ' Barry Manilow", '3. Elton John', '4. John Lennon', '5. Bob Dylan', '6. Paul McCartney', '7. Stevie Wonder', '8. The Carpenters', '9. Charles Aznavour', '10. Tina Turner', '11. George Michael', '12. Ray Charles', '13. Garth Brooks', '14. Andy Williams', '15. Lionel Richie', '16. Paul Anka', '17. David Bowie', '18. Carly Simon', '19. Bonnie Tyler', '20. Elvis Presley', '21. Olivia Newton-John', '22. Paul Simon', '23. Diana Ross', '24. James Taylor', '25. Sammy Davis Jr.', '26. Eric Clapton', '27. Celine Dion', "28. Phil Collins', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: My bot
+TOKENS: 50
+FREQUENCY: 0.2
+OUTPUT: ['[{\'text\': " will only be able to do this if you have a bot account.', "If you don't have a bot account, you can create one here.", 'If you already have a bot account, you can use it to create a new bot", \'index\': 0, \'logprobs\': None, \'finish_reason\': \'length\'}]']
+---END---
+
+---SETUP---
+PROMPT: List of all types of bananas\n1.\n
+TOKENS: 100
+FREQUENCY: 0.7
+OUTPUT: '
+---END---
+
+---SETUP---
+PROMPT: dirt
+TOKENS: 50
+FREQUENCY: 0.2
+OUTPUT:  '.com/
+---END---
+
+---SETUP---
+PROMPT: banana
+TOKENS: 100
+FREQUENCY: 0.2
+OUTPUT:  , banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, ind 0, logprobs Non, finish_rason lngh}]
+---END---
+
+---SETUP---
+PROMPT: banana
+TOKENS: 100
+FREQUENCY: 0.2
+OUTPUT:  , and a fw ohr hings.
+---END---
+
+---SETUP---
+PROMPT: banana
+TOKENS: 50
+FREQUENCY: 0.2
+OUTPUT: ["[{'text': ', and a few other things.", "I’m not sure if it’s the fact that I’m a vegetarian, or if it’s the fact that I’m a vegetarian, but I’', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: banana
+TOKENS: 50
+FREQUENCY: 0.2
+OUTPUT: [' , banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, ind 0, logprobs Non, finish_rason lngh}]']
+---END---
+
+---SETUP---
+PROMPT: banana
+TOKENS: 50
+FREQUENCY: 0.2
+OUTPUT: [" ', the fruit of the banana tree, is a member of the genus Cucurbita. The fruit is a fruit that is eaten by humans and other animals. The fruit is used as a food, and is also used as a medicine.', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: List all fruits in the world\n1. Banana\n2.
+TOKENS: 150
+FREQUENCY: 0.2
+OUTPUT: [" ' Apple", '3. Orange', '4. Grapefruit', '5. Watermelon', '6. Kiwi', '7. Pineapple', '8. Melon', '9. Pear', '10. Banana', '11. Apple', '12. Orange', '13. Grapefruit', '14. Watermelon', '15. Kiwi', '16. Pineapple', '17. Melon', '18. Pear', '19. Banana', '20. Apple', '21. Orange', '22. Grapefruit', '23. Watermelon', '24. Kiwi', '25. Pineapple', '26. Melon', '27. Pear', '28. Banana', '29. Apple', '30. Orange', '31. Grapefruit', '32. Watermelon', '33. Kiwi', '34. Pineapple', "35', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]"]
+---END---
+
+---SETUP---
+PROMPT: banana
+TOKENS: 100
+FREQUENCY: 0.2
+OUTPUT: [" ', and a little bit of cinnamon.", 'I’m not a huge fan of the taste of banana, but I think it’s a great addition to this recipe. I also like the cinnamon and the banana.', 'I’m not a huge fan of the taste of banana, but I think it’s a great addition to this recipe. I also like the cinnamon and the banana.', "I’m not a huge fan of the taste of', "]
+---END---
+
+---SETUP---
+PROMPT: Give me a list of all the countries in the world.\n1. Australia\n2.
+TOKENS: 150
+FREQUENCY: 0.2
+OUTPUT: [" ' England", '3. France', '4. Germany', '5. Italy', '6. Japan', '7. Spain', '8. United States', '9. Russia', '10. China', '11. India', '12. South Africa', '13. Canada', '14. New Zealand', '15. Mexico', '16. South Korea', '17. Brazil', '18. Argentina', '19. Chile', '20. Peru', '21. Venezuela', '22. Colombia', '23. Bolivia', '24. Ecuador', '25. Paraguay', '26. Uruguay', '27. Venezuela', '28. Bolivia', '29. Paraguay', '30. Argentina', '31. Uruguay', '32. Chile', '33. Peru', '34. Brazil', '35. Colombia', '36. Venezuela', '37. Bolivia', "38.', "]
+---END---
+
+---SETUP---
+PROMPT: Create an essay for an academic about the global pollution. Include facts about greenhouse gases and garbage collection.\n
+TOKENS: 300
+FREQUENCY: 0.7
+OUTPUT: [" '", 'Write an essay about environmental pollution. This topic is quite broad, so you can include any points you want, for example, the food waste and the shortage of drinking water.', 'Make an essay about the depletion of natural resources.', 'Discuss the negative impact of renewable energy on the environment.', 'Make an essay about the destruction of the rainforests.', 'Discuss the importance of the usage of solar energy.', 'Create an essay about the depletion of fossil fuels.', 'Discuss the negative impact of the non-renewable energy on the environment.', 'Write an essay about the greenhouse effect.', 'Discuss the importance of using renewable energy sources.', 'Write an essay about nuclear power.', 'Make an essay about the importance of recycling.', 'Discuss the importance of the natural resources.', 'Write an essay about the importance of clean air.', 'Make an essay about the importance of the recycling of the wastes.', 'Discuss the negative impact of air pollution on the environment.', 'Discuss the negative impact of the air pollution on the environment.', 'Write an essay about the importance of the water conservation.', 'Discuss the negative impact of deforestation.', 'Write an essay about the importance of the conservation of trees.', 'Discuss the negative impact of the usage of paper.', 'Make an essay about the importance of the usage of paper.', 'Discuss the negative impact of the soil pollution.', "Make an essay', "]
+---END---

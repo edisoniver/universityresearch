@@ -1,0 +1,2 @@
+JSON
+[{'text': 'A:What is iron man?\nB:Robert Downey Jr.\nC:Plot summary\nII:Body\nA:Action and Violence\nB:Acting\nC:Soundtrack\nD:Harmony\nIII:Conclusion\nA:Evaluation\nB: Suggest', 'index': 0, 'logprobs': None, 'finish_reason': 'length'}]
